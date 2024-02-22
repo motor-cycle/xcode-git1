@@ -42,9 +42,16 @@
 <<<<<<< HEAD
 =======
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0yV-5I-vQr">
+<<<<<<< HEAD
                                 <rect key="frame" x="98" y="184.5" width="224" height="74"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Add 1 branch button" backgroundImage="pencil" catalog="system"/>
+=======
+                                <rect key="frame" x="155" y="206" width="90" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.58081901069999997" green="0.088427625600000004" blue="0.31863921880000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <state key="normal" title="Add 2 button"/>
+>>>>>>> add2
                             </button>
 >>>>>>> add1
                         </subviews>
